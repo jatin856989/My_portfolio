@@ -28,7 +28,7 @@ Maath: Utility library for mathematical functions
 Tailwind CSS: Utility-first CSS framework for styling
 JavaScript: Main programming language
 📸 Screenshots
-![Project Screenshot]()
+![Project Screenshot](https://github.com/jatin856989/My_portfolio/blob/main/port.png?raw=true)
 
 🏗️ Getting Started
 To run this project locally, follow these steps:
