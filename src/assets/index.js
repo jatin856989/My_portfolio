@@ -26,9 +26,9 @@ import shopify from "./company/shopify.png";
 import codroid from "./company/codroid.png";
 import vs from "./company/vs.png";
 
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+import face from "./face.png";
+import exam from "./exam.png";
+import port from "./port.png";
 
 export {
   logo,
@@ -56,7 +56,7 @@ export {
   shopify,
   codroid,
   vs,
-  carrent,
-  jobit,
-  tripguide,
+  face,
+  exam,
+  port,
 };

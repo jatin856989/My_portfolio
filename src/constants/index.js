@@ -19,9 +19,9 @@ import {
     codroid,
     vs,
     //shopify,
-    carrent,
-    jobit,
-    tripguide,
+    face,
+    exam,
+    port,
     threejs,
   } from "../assets";
   
@@ -215,29 +215,29 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: carrent,
-      source_code_link: "https://github.com/",
+      image: face,
+      source_code_link: "https://github.com/jatin856989/Face-Detection-and-Recognition",
     },
     {
-      name: "BlogVista",
+      name: "Exam_Display",
       description:
-        "BlogVista, a web-based application using Django and Python, where users can explore a variety of blogs and contribute their own. This project showcases Django's capabilities in managing user interactions, database handling, and creating a collaborative blogging platform.",
+        "A Java-based Exam Management System with a user-friendly GUI for administering multiple-choice quizzes. Features include question navigation, bookmarking for review, score tracking, and a custom background. This application is ideal for simulating exam environments and enhancing study sessions.",
       tags: [
         {
-          name: "python",
+          name: "java",
           color: "blue-text-gradient",
         },
         {
-          name: "django",
+          name: "swing",
           color: "green-text-gradient",
         },
         {
-          name: "sqlLite",
+          name: "awt",
           color: "pink-text-gradient",
         },
       ],
-      image: jobit,
-      source_code_link: "https://github.com/",
+      image: exam,
+      source_code_link: "https://github.com/jatin856989/Exam_Display",
     },
     {
       name: "My Portfolio",
@@ -257,8 +257,8 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: tripguide,
-      source_code_link: "https://github.com/",
+      image: port,
+      source_code_link: "https://github.com/jatin856989/My_portfolio",
     },
   ];
   
