@@ -59,7 +59,7 @@ const Navbar = () => {
           }`}
         >
           <a
-            href='src\assets\jatin_resume.pdf'
+            href='/public/jatin_resume.pdf'
             download='Jatin Resume'
             className='text-white text-[18px] font-bold'
           >
